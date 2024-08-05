@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 👋 Hi, Tyler Van Gorder
 - 👀 I’m interested in Modern Java (Think Java 17+) , OpenRewrite, Spring Boot, SRE
 - 🌱 I’m currently learning Angular.
 - My work account alter ego : https://github.com/tylervangorder-8451
